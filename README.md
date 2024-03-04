@@ -24,6 +24,8 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Logging/Saving.t
 
 ### Operations
 
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Divide.java
+
 ### Presentation
 
 ### View
