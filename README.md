@@ -17,10 +17,9 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Exception/MathEx
 
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Logging/Logtxt.java
 
-
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Logging/logging.java
 
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Logging/Saving.txt
-
 
 
 ### Operations
