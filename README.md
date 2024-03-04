@@ -34,7 +34,7 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Multi
 
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Subtract.java
 
-
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Summarize.java
 
 ### Presentation
 
