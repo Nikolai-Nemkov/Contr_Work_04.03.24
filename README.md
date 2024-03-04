@@ -10,9 +10,14 @@
 ### Exception
 
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Exception/DivideByZero.java
+
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Exception/MathExceptions.java
 
 ### Loggihg
+
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Logging/Logtxt.java
+
+
 
 ### Operations
 
