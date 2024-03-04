@@ -32,6 +32,7 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Model
 
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Multiply.java
 
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Subtract.java
 
 
 
