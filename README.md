@@ -48,18 +48,24 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/View/UI.java
 
 ### Conclusion
 
-"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\lib\idea_rt.jar=65079:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\bin" -Dfile.encoding=UTF-8 -classpath D:\Java\OOP_7_2\out\production\OOP_7_2 View.Program
+"C:\Program Files\Java\jdk-17\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\lib\idea_rt.jar=65079:C:\Program  
 
 Введите первое число: 
+
 89
+
 Введите второе число: 
+
 12
+
 Выберите номер операции и получите ответ: 
+
 	1. + 
 	2. - 
 	3. * 
 	4. / 
 4
+
 7.416666666666667
 
 
