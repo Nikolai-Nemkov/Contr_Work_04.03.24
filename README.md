@@ -42,4 +42,8 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Presentation/Pre
 
 ### View
 
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/View/Program.java
+
+
+
 
