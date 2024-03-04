@@ -28,6 +28,9 @@ https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Divid
 
 https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Model.java
 
+https://github.com/Nikolai-Nemkov/Contr_Work_04.03.24/blob/main/Operations/Model1.java
+
+
 
 
 ### Presentation
